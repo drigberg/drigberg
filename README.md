@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome! 🦄
 
-<!--
-**drigberg/drigberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel, and I'm a software developer currently based in Amsterdam.
 
-Here are some ideas to get you started:
+A few links:
+- My personal site: https://danielrigberg.com
+- Where I work: https://simplehealth.com
+- My profile for Go (please hit me up for a game, if you play!): https://online-go.com/player/911343/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope you enjoy looking through my personal projects below! Feel free to reach out if you'd like to contribute to anything, or if you'd like to collaborate on another project.
+
+All the best,
+Dan
+⛈️ 🐐 ⛈️
