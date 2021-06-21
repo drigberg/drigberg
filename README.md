@@ -1,6 +1,6 @@
 ### Welcome! 🦄
 
-My name is Daniel, and I'm a software developer currently based in Amsterdam. 🌬️ 🧀 🚲
+My name is Daniel, and I'm a software developer currently based in Amsterdam. 🌬️ 🚲
 
 A few links:
 - My personal site: https://danielrigberg.com
