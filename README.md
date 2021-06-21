@@ -9,8 +9,4 @@ A few links:
 
 I hope you enjoy looking through my personal projects below! Feel free to reach out if you'd like to contribute to anything, or if you'd like to collaborate on another project.
 
-All the best,
-
-Dan
-
 ⛈️ 🐐 ⛈️
